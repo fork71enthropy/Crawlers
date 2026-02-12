@@ -1,0 +1,13 @@
+ctrl+c : annule une commande
+ctrl+z : interompt le processus courant, mais ne l'arrête pas
+jobs : affiche les processus en train de se dérouler dans le terminal
+fg%process_id : to get back on your process
+kill%process_id : to stop the process, or kill -9 %process_id
+ctrl+s : met en pause un affichage en cours dans le terminal
+ctrl+q : reprend l'affichage où il était mis en pause
+ctrl+a : ramène le curseur tout au début de la ligne lorsque je suis en train de saisir une commande
+ctrl+e : ramène tout à la fin (inverse de ctrl+a)
+ctrl+w : efface entièrement le mot qui se trouve avant mon curseur (putain c'est une dinguerie ce truc)
+ctrl+k : efface tout ce qui se trouvait après le curseur
+ctrl+u : efface tout ce qui est dans ma ligne
+ctrl+r : cherche dans mon historique pour retrouver une commande récente effectuée à partir des premières lettres que j'entre
